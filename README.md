@@ -24,6 +24,42 @@ All systems are live, production-ready, and designed for **scalability, performa
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏢 Skopic — Large-Scale Community Platform *(Professional Experience)*
+
+- **2+ years** as the **sole React developer** on a high-traffic, production web platform  
+- Owned **frontend architecture**, feature delivery & production readiness  
+- Built **complex community, social & geo-based workflows**, including map-based boundaries  
+- Designed **scalable state management** for large, dynamic UIs  
+- Implemented **real-time interactions, notifications & advanced email flows**  
+- Collaborated closely with backend, product & stakeholders  
+
+*Project developed at Inspira Technologies Pvt. Ltd.*
+
+
+### 🎓 LMS Platform
+- Full-stack LMS with **AI-powered learning features** and **secure Razorpay payments**
+- **Role-based access control (RBAC)** for Admin / Instructor / Student with protected workflows
+- **AI integrations** for lesson summaries, MCQ generation & contextual Q&A
+- **Payment safety**: server-side verification, idempotency & double-payment prevention
+- **Production-ready backend** with JWT auth, progress tracking & scalable APIs
+- [Backend Repo](https://github.com/Ambreesh-Kumar/lms-backend) | [Watch Demo](https://www.loom.com/share/c5fe1f994c3c4f448879151cde464fea)
+- [Frontend Repo](https://github.com/Ambreesh-Kumar/lms-frontend) | [Watch Demo](https://www.loom.com/share/00d96b4978a648b8a00ff5046361406d) | [Live App](https://lms-frontend-seven-taupe.vercel.app/)
+
+### 🛒 E-Commerce Platform
+- **Production-ready eCommerce backend** with cart, orders & **secure Razorpay payments**
+- **JWT authentication + Role-based access control (RBAC)** for Admin and Users
+- Complete **cart → order → payment** workflow with idempotency & double-payment protection
+- **Admin APIs** for product, order & inventory management
+- Deployed and production-tested on **Render**
+- [Backend Repo](https://github.com/Ambreesh-Kumar/ecommerce-backend) | [Watch Demo](https://www.loom.com/share/021c0728097e403f90378bb70db7ea8f)
+
+### 🌐 Portfolio Website
+- Personal portfolio showcasing **projects, skills & experience** 
+- Built with **React.js** and **Tailwind CSS**, deployed on **Vercel**
+- [Visit Portfolio](https://personal-portfolio-rose-psi-52.vercel.app/)
+
 ## 💻 Tech Stack
 
 ### Backend
@@ -70,32 +106,6 @@ All systems are live, production-ready, and designed for **scalability, performa
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 LMS Platform
-- Full-stack LMS with **AI-powered learning features** and **secure Razorpay payments**
-- **RBAC system** for Admin / Instructor / Student with protected workflows
-- **AI integrations** for lesson summaries, MCQ generation & contextual Q&A
-- **Payment safety**: server-side verification, idempotency & double-payment prevention
-- **Production-ready backend** with JWT auth, progress tracking & scalable APIs
-- [Backend Repo](https://github.com/Ambreesh-Kumar/lms-backend) | [Watch Demo](https://www.loom.com/share/c5fe1f994c3c4f448879151cde464fea)
-- [Frontend Repo](https://github.com/Ambreesh-Kumar/lms-frontend) | [Watch Demo](https://www.loom.com/share/00d96b4978a648b8a00ff5046361406d) | [Live App](https://lms-frontend-seven-taupe.vercel.app/)
-
-### 🛒 E-Commerce Platform
-- **Production-ready eCommerce backend** with cart, orders & **secure Razorpay payments**
-- **JWT authentication + RBAC** for Admin and Users
-- Complete **cart → order → payment** workflow with idempotency & double-payment protection
-- **Admin APIs** for product, order & inventory management
-- Deployed and production-tested on **Render**
-- [Backend Repo](https://github.com/Ambreesh-Kumar/ecommerce-backend) | [Watch Demo](https://www.loom.com/share/021c0728097e403f90378bb70db7ea8f)
-
-### 🌐 Portfolio Website
-- Personal portfolio showcasing **projects, skills & experience** 
-- Built with **React.js** and **Tailwind CSS**, deployed on **Vercel**
-- [Visit Portfolio](https://personal-portfolio-rose-psi-52.vercel.app/)
 
 ---
 
