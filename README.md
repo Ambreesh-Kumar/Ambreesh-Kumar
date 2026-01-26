@@ -19,7 +19,7 @@ All systems are live, production-ready, and designed for **scalability, performa
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambreesh-kumar) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kambreesh0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://personal-portfolio-rose-psi-52.vercel.app/)
 
 ---
 
@@ -61,17 +61,18 @@ All systems are live, production-ready, and designed for **scalability, performa
 ### 🎓 LMS Platform
 - Full-stack LMS with **AI-powered learning features** & **Razorpay payments**  
 - Role-based system: Admin / Instructor / Student  
-- [Backend Repo](https://github.com/USERNAME/lms-backend) | [Frontend Repo](https://github.com/USERNAME/lms-frontend) | [Live Demo](https://your-lms.vercel.app)
+- [Backend Repo](https://github.com/Ambreesh-Kumar/lms-backend) | [Watch Demo](https://www.loom.com/share/c5fe1f994c3c4f448879151cde464fea)
+- [Frontend Repo](https://github.com/Ambreesh-Kumar/lms-frontend) | [Watch Demo](https://www.loom.com/share/00d96b4978a648b8a00ff5046361406d) | [Live App](https://lms-frontend-seven-taupe.vercel.app/)
 
 ### 🛒 E-Commerce Platform
 - Scalable backend with **secure payments, order management & roles**  
 - Admin dashboard + JWT authentication  
-- [Backend Repo](https://github.com/USERNAME/ecommerce-backend) | [Frontend Repo](https://github.com/USERNAME/ecommerce-frontend) | [Live Demo](https://your-ecommerce.vercel.app)
+- [Backend Repo](https://github.com/Ambreesh-Kumar/ecommerce-backend) | [Watch Demo](https://www.loom.com/share/021c0728097e403f90378bb70db7ea8f)
 
 ### 🌐 Portfolio Website
 - Showcases **projects, skills & achievements**  
 - Built with React.js & Tailwind CSS  
-- [Repo](https://github.com/USERNAME/portfolio) | [Live](https://your-portfolio.vercel.app)
+- [Visit Portfolio]https://personal-portfolio-rose-psi-52.vercel.app/)
 
 ---
 
