@@ -19,7 +19,8 @@ All systems are live, production-ready, and designed for **scalability, performa
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambreesh-kumar) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kambreesh0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://personal-portfolio-rose-psi-52.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat-square&logo=firefox&logoColor=#FF7139)](https://personal-portfolio-rose-psi-52.vercel.app/)
+
 
 ---
 
@@ -34,44 +35,66 @@ All systems are live, production-ready, and designed for **scalability, performa
 ![Razorpay](https://img.shields.io/badge/Razorpay-%23000000.svg?style=for-the-badge&logo=razorpay&logoColor=#00C7B7)
 
 ### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/redux--toolkit-%2349329D.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
-### AI & Tools
-![Gemini AI](https://img.shields.io/badge/Gemini-AI-%23FF6D00.svg?style=for-the-badge) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+### 📝 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🧠 AI & Intelligence
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI-%23FF6D00.svg?style=for-the-badge)
+
+### 💳 Payments & Integrations
+![Razorpay](https://img.shields.io/badge/Razorpay-%230072CE.svg?style=for-the-badge&logo=razorpay&logoColor=white)
+
+### 🛠 Tools & Middleware
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%23232F3E.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### DevOps / Deployment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+
+### ☁️ Platforms & Deployment
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎓 LMS Platform
-- Full-stack LMS with **AI-powered learning features** & **Razorpay payments**  
-- Role-based system: Admin / Instructor / Student  
+- Full-stack LMS with **AI-powered learning features** and **secure Razorpay payments**
+- **RBAC system** for Admin / Instructor / Student with protected workflows
+- **AI integrations** for lesson summaries, MCQ generation & contextual Q&A
+- **Payment safety**: server-side verification, idempotency & double-payment prevention
+- **Production-ready backend** with JWT auth, progress tracking & scalable APIs
 - [Backend Repo](https://github.com/Ambreesh-Kumar/lms-backend) | [Watch Demo](https://www.loom.com/share/c5fe1f994c3c4f448879151cde464fea)
 - [Frontend Repo](https://github.com/Ambreesh-Kumar/lms-frontend) | [Watch Demo](https://www.loom.com/share/00d96b4978a648b8a00ff5046361406d) | [Live App](https://lms-frontend-seven-taupe.vercel.app/)
 
 ### 🛒 E-Commerce Platform
-- Scalable backend with **secure payments, order management & roles**  
-- Admin dashboard + JWT authentication  
+- **Production-ready eCommerce backend** with cart, orders & **secure Razorpay payments**
+- **JWT authentication + RBAC** for Admin and Users
+- Complete **cart → order → payment** workflow with idempotency & double-payment protection
+- **Admin APIs** for product, order & inventory management
+- Deployed and production-tested on **Render**
 - [Backend Repo](https://github.com/Ambreesh-Kumar/ecommerce-backend) | [Watch Demo](https://www.loom.com/share/021c0728097e403f90378bb70db7ea8f)
 
 ### 🌐 Portfolio Website
-- Showcases **projects, skills & achievements**  
-- Built with React.js & Tailwind CSS  
+- Personal portfolio showcasing **projects, skills & experience** 
+- Built with **React.js** and **Tailwind CSS**, deployed on **Vercel**
 - [Visit Portfolio](https://personal-portfolio-rose-psi-52.vercel.app/)
 
 ---
