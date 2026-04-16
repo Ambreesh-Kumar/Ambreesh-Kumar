@@ -12,7 +12,7 @@ Currently at Inspira Technologies, leading frontend development for **Skopic**, 
 Built multiple production-grade systems end-to-end: <br>
 - **Full-Stack LMS** with AI-powered learning features & Razorpay integration <br>
 - **Scalable eCommerce backend** with secure payments, order management & role-based access <br><br>
-All systems are live, production-ready, and designed for **scalability, performance, maintainability, and DevOps-driven deployments (Docker, Redis, Nginx, CI/CD)**.
+All systems are live and production-ready, designed for **scalability, performance, and maintainability**, with DevOps-driven deployments (Docker, Redis, Nginx, CI/CD, AWS EC2) implemented in the LMS platform.
 
 ---
 
