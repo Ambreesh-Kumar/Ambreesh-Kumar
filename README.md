@@ -1,8 +1,8 @@
 <!-- Hero Section -->
 <h1 align="center">Hi 👋, I'm Ambreesh Kumar</h1>
-<h3 align="center">Backend-heavy Full-Stack Engineer | Node.js | Scalable APIs | AI & Payments</h3>
+<h3 align="center">Backend-heavy Full-Stack Engineer | Node.js | Scalable APIs | DevOps (Docker, AWS) | AI & Payments</h3>
 <p align="center">
-Currently at <strong>Inspira Technologies Pvt Ltd</strong>, leading frontend development for Skopic and architecting production-grade backend systems for LMS & eCommerce platforms.
+Currently at <strong>Inspira Technologies Pvt Ltd</strong>, leading frontend development for Skopic and building production-grade backend systems with DevOps practices (Docker, Redis, Nginx, CI/CD) for LMS & eCommerce platforms.
 </p>
 
 ---
@@ -12,7 +12,7 @@ Currently at Inspira Technologies, leading frontend development for **Skopic**, 
 Built multiple production-grade systems end-to-end: <br>
 - **Full-Stack LMS** with AI-powered learning features & Razorpay integration <br>
 - **Scalable eCommerce backend** with secure payments, order management & role-based access <br><br>
-All systems are live, production-ready, and designed for **scalability, performance, and maintainability**.
+All systems are live, production-ready, and designed for **scalability, performance, maintainability, and DevOps-driven deployments (Docker, Redis, Nginx, CI/CD)**.
 
 ---
 
@@ -33,7 +33,7 @@ All systems are live, production-ready, and designed for **scalability, performa
 - Built **complex community, social & geo-based workflows**, including map-based boundaries  
 - Designed **scalable state management** for large, dynamic UIs  
 - Implemented **real-time interactions, notifications & advanced email flows**  
-- Collaborated closely with backend, product & stakeholders  
+- Collaborated closely with backend, product & stakeholders; worked with production environments behind Nginx-based deployments   
 
 *Project developed at Inspira Technologies Pvt. Ltd.*
 
@@ -43,7 +43,7 @@ All systems are live, production-ready, and designed for **scalability, performa
 - **Role-based access control (RBAC)** for Admin / Instructor / Student with protected workflows
 - **AI integrations** for lesson summaries, MCQ generation & contextual Q&A
 - **Payment safety**: server-side verification, idempotency & double-payment prevention
-- **Production-ready backend** with JWT auth, progress tracking & scalable APIs
+- **Production-ready backend** with JWT auth, progress tracking, scalable APIs, and DevOps setup using Docker, Redis caching, Nginx (rate limiting & load balancing), CI/CD, and AWS deployment
 - [Backend Repo](https://github.com/Ambreesh-Kumar/lms-backend) | [Watch Demo](https://www.loom.com/share/c5fe1f994c3c4f448879151cde464fea)
 - [Frontend Repo](https://github.com/Ambreesh-Kumar/lms-frontend) | [Watch Demo](https://www.loom.com/share/00d96b4978a648b8a00ff5046361406d) | [Live App](https://lms-frontend-seven-taupe.vercel.app/)
 
@@ -106,6 +106,13 @@ All systems are live, production-ready, and designed for **scalability, performa
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+
+### ⚙️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
