@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ambreesh Kumar</h1>
 <h3 align="center">Backend-heavy Full-Stack Engineer | Node.js | Scalable APIs | DevOps (Docker, AWS) | AI & Payments</h3>
 <p align="center">
-Currently at <strong>Inspira Technologies Pvt Ltd</strong>, leading frontend development for Skopic while also developing backend services (Node.js, Express) for US client projects, and building production-grade backend systems with DevOps practices (Docker, Redis, Nginx, CI/CD) for LMS & eCommerce platforms.
+Currently at <strong>Inspira Technologies Pvt Ltd</strong>, leading frontend development for Skopic while also developing backend services (Node.js, Express) for US client projects, and working with DevOps practices including Docker, Redis, Nginx, AWS EC2, and CI/CD for building and deploying production-grade systems.
 </p>
 
 ---
